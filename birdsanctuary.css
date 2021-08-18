@@ -1,0 +1,27 @@
+h1 {
+text-align:center;
+  background-color: green;
+
+}
+
+h2
+{
+background-color: green;
+width: 20%;
+}
+
+
+
+a {
+    color: blue;
+}
+
+body {
+ background-image: url("bird.jpg");
+ background-color: #cccccc;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
